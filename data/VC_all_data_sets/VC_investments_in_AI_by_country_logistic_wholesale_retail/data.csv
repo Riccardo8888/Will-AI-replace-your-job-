@@ -1,0 +1,113 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+EU27,EU27,Logistics, wholesale and retail,VC,0,2013
+EU27,EU27,Logistics, wholesale and retail,VC,41.597811,2015
+EU27,EU27,Logistics, wholesale and retail,VC,54.5542175,2016
+EU27,EU27,Logistics, wholesale and retail,VC,24.154924,2017
+EU27,EU27,Logistics, wholesale and retail,VC,42.0337575,2018
+EU27,EU27,Logistics, wholesale and retail,VC,85.040418,2019
+EU27,EU27,Logistics, wholesale and retail,VC,243.4887685,2020
+EU27,EU27,Logistics, wholesale and retail,VC,471.89784349999996,2021
+EU27,EU27,Logistics, wholesale and retail,VC,1364.472736,2022
+EU27,EU27,Logistics, wholesale and retail,VC,123.1628325,2023
+EU27,EU27,Logistics, wholesale and retail,VC,96.123254,2024
+EU27,EU27,Logistics, wholesale and retail,VC,113.75088650000001,2025
+DEU,Germany,Logistics, wholesale and retail,VC,0,2013
+DEU,Germany,Logistics, wholesale and retail,VC,34.561381,2015
+DEU,Germany,Logistics, wholesale and retail,VC,21.9211275,2016
+DEU,Germany,Logistics, wholesale and retail,VC,20,2017
+DEU,Germany,Logistics, wholesale and retail,VC,8.208650500000001,2018
+DEU,Germany,Logistics, wholesale and retail,VC,30,2019
+DEU,Germany,Logistics, wholesale and retail,VC,132.725686,2020
+DEU,Germany,Logistics, wholesale and retail,VC,253.59669000000002,2021
+DEU,Germany,Logistics, wholesale and retail,VC,266.758437,2022
+DEU,Germany,Logistics, wholesale and retail,VC,72.575814,2023
+DEU,Germany,Logistics, wholesale and retail,VC,41.468987999999996,2024
+DEU,Germany,Logistics, wholesale and retail,VC,29.048767,2025
+FRA,France,Logistics, wholesale and retail,VC,5.627986,2015
+FRA,France,Logistics, wholesale and retail,VC,32.59978,2016
+FRA,France,Logistics, wholesale and retail,VC,25.705230999999998,2018
+FRA,France,Logistics, wholesale and retail,VC,5.272432,2019
+FRA,France,Logistics, wholesale and retail,VC,96.30101799999998,2020
+FRA,France,Logistics, wholesale and retail,VC,34.653211999999996,2021
+FRA,France,Logistics, wholesale and retail,VC,506.267916,2022
+FRA,France,Logistics, wholesale and retail,VC,29.917943,2023
+FRA,France,Logistics, wholesale and retail,VC,11.341887,2024
+FRA,France,Logistics, wholesale and retail,VC,38.6885495,2025
+SWE,Sweden,Logistics, wholesale and retail,VC,3.223055,2017
+SWE,Sweden,Logistics, wholesale and retail,VC,6.0606610000000005,2018
+SWE,Sweden,Logistics, wholesale and retail,VC,27.283492,2019
+SWE,Sweden,Logistics, wholesale and retail,VC,10,2020
+SWE,Sweden,Logistics, wholesale and retail,VC,133.687031,2021
+SWE,Sweden,Logistics, wholesale and retail,VC,507.65360699999997,2022
+SWE,Sweden,Logistics, wholesale and retail,VC,27.152299,2024
+SWE,Sweden,Logistics, wholesale and retail,VC,2.148197,2025
+GBR,United Kingdom,Logistics, wholesale and retail,VC,0.5211245,2013
+GBR,United Kingdom,Logistics, wholesale and retail,VC,12.15,2014
+GBR,United Kingdom,Logistics, wholesale and retail,VC,5.506112,2015
+GBR,United Kingdom,Logistics, wholesale and retail,VC,3.477049,2016
+GBR,United Kingdom,Logistics, wholesale and retail,VC,20.172544000000002,2017
+GBR,United Kingdom,Logistics, wholesale and retail,VC,14.369757,2018
+GBR,United Kingdom,Logistics, wholesale and retail,VC,18.347056,2019
+GBR,United Kingdom,Logistics, wholesale and retail,VC,4.248089,2020
+GBR,United Kingdom,Logistics, wholesale and retail,VC,97.601333,2021
+GBR,United Kingdom,Logistics, wholesale and retail,VC,27.463239,2022
+GBR,United Kingdom,Logistics, wholesale and retail,VC,91.77325,2023
+GBR,United Kingdom,Logistics, wholesale and retail,VC,62.334886,2024
+GBR,United Kingdom,Logistics, wholesale and retail,VC,147.4936725,2025
+CHE,Switzerland,Logistics, wholesale and retail,VC,4,2016
+CHE,Switzerland,Logistics, wholesale and retail,VC,3.068415,2017
+CHE,Switzerland,Logistics, wholesale and retail,VC,11.1,2018
+CHE,Switzerland,Logistics, wholesale and retail,VC,38.829306,2019
+CHE,Switzerland,Logistics, wholesale and retail,VC,7.162091,2020
+CHE,Switzerland,Logistics, wholesale and retail,VC,24.573248,2021
+CHE,Switzerland,Logistics, wholesale and retail,VC,7.620645,2022
+CHE,Switzerland,Logistics, wholesale and retail,VC,28.927191,2024
+ISL,Iceland,Logistics, wholesale and retail,VC,2.47,2016
+ISL,Iceland,Logistics, wholesale and retail,VC,3.1,2017
+ISL,Iceland,Logistics, wholesale and retail,VC,4.4,2018
+ISL,Iceland,Logistics, wholesale and retail,VC,9.1,2019
+ISL,Iceland,Logistics, wholesale and retail,VC,32.950858000000004,2020
+ISL,Iceland,Logistics, wholesale and retail,VC,40,2023
+CZE,Czech Republic,Logistics, wholesale and retail,VC,0.712571,2018
+CZE,Czech Republic,Logistics, wholesale and retail,VC,69.106557,2022
+CZE,Czech Republic,Logistics, wholesale and retail,VC,3.671017,2023
+CZE,Czech Republic,Logistics, wholesale and retail,VC,1.356167,2024
+IRL,Ireland,Logistics, wholesale and retail,VC,3,2019
+IRL,Ireland,Logistics, wholesale and retail,VC,2.2131975,2020
+IRL,Ireland,Logistics, wholesale and retail,VC,25,2021
+IRL,Ireland,Logistics, wholesale and retail,VC,2.1854925,2023
+IRL,Ireland,Logistics, wholesale and retail,VC,30,2025
+ESP,Spain,Logistics, wholesale and retail,VC,0.931869,2017
+ESP,Spain,Logistics, wholesale and retail,VC,1.346644,2018
+ESP,Spain,Logistics, wholesale and retail,VC,5.611779,2019
+ESP,Spain,Logistics, wholesale and retail,VC,2.248867,2020
+ESP,Spain,Logistics, wholesale and retail,VC,2.2924245,2021
+ESP,Spain,Logistics, wholesale and retail,VC,10.621716,2022
+ESP,Spain,Logistics, wholesale and retail,VC,8.188312,2023
+ESP,Spain,Logistics, wholesale and retail,VC,8.984119,2024
+ESP,Spain,Logistics, wholesale and retail,VC,3.9014439999999997,2025
+PRT,Portugal,Logistics, wholesale and retail,VC,12,2019
+PRT,Portugal,Logistics, wholesale and retail,VC,12.612549,2021
+PRT,Portugal,Logistics, wholesale and retail,VC,1.532364,2022
+PRT,Portugal,Logistics, wholesale and retail,VC,3.687524,2024
+NLD,Netherlands,Logistics, wholesale and retail,VC,9.682358,2021
+NLD,Netherlands,Logistics, wholesale and retail,VC,0.486827,2022
+NLD,Netherlands,Logistics, wholesale and retail,VC,2.701356,2023
+FIN,Finland,Logistics, wholesale and retail,VC,1.408444,2015
+FIN,Finland,Logistics, wholesale and retail,VC,1.2,2024
+FIN,Finland,Logistics, wholesale and retail,VC,2.812247,2025
+BGR,Bulgaria,Logistics, wholesale and retail,VC,0.03331,2016
+BGR,Bulgaria,Logistics, wholesale and retail,VC,1.872715,2019
+BGR,Bulgaria,Logistics, wholesale and retail,VC,2.77236,2023
+ITA,Italy,Logistics, wholesale and retail,VC,1.613379,2022
+ITA,Italy,Logistics, wholesale and retail,VC,2.736842,2025
+LTU,Lithuania,Logistics, wholesale and retail,VC,0.431933,2022
+LTU,Lithuania,Logistics, wholesale and retail,VC,1.150538,2023
+LTU,Lithuania,Logistics, wholesale and retail,VC,0.93227,2024
+LTU,Lithuania,Logistics, wholesale and retail,VC,1.733136,2025
+NOR,Norway,Logistics, wholesale and retail,VC,2.3,2018
+TUR,Türkiye,Logistics, wholesale and retail,VC,0.6,2016
+TUR,Türkiye,Logistics, wholesale and retail,VC,1.2,2017
+DNK,Denmark,Logistics, wholesale and retail,VC,1.5,2025
+BEL,Belgium,Logistics, wholesale and retail,VC,1.181704,2025
+AUT,Austria,Logistics, wholesale and retail,VC,0.373579,2021

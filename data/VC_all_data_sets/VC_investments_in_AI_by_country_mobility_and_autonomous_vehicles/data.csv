@@ -1,0 +1,120 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+EU27,EU27,Mobility and autonomous vehicles,VC,0.85,2012
+EU27,EU27,Mobility and autonomous vehicles,VC,3.8866009999999998,2013
+EU27,EU27,Mobility and autonomous vehicles,VC,2.3137,2014
+EU27,EU27,Mobility and autonomous vehicles,VC,14.739545,2015
+EU27,EU27,Mobility and autonomous vehicles,VC,20.976492,2016
+EU27,EU27,Mobility and autonomous vehicles,VC,49.690747,2017
+EU27,EU27,Mobility and autonomous vehicles,VC,71.39898,2018
+EU27,EU27,Mobility and autonomous vehicles,VC,25.8851085,2019
+EU27,EU27,Mobility and autonomous vehicles,VC,163.217357,2020
+EU27,EU27,Mobility and autonomous vehicles,VC,354.6630925,2021
+EU27,EU27,Mobility and autonomous vehicles,VC,417.40544950000003,2022
+EU27,EU27,Mobility and autonomous vehicles,VC,260.275718,2023
+EU27,EU27,Mobility and autonomous vehicles,VC,116.835247,2024
+EU27,EU27,Mobility and autonomous vehicles,VC,186.74156150000002,2025
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,0.5,2013
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,6.343836,2014
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,6.380611,2015
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,0.287321,2016
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,10.913655,2017
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,31.242445,2018
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,106.879878,2019
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,40.474273000000004,2020
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,37.68981,2021
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,175.70121500000002,2022
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,373.946759,2023
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,40.218498,2024
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,27.791479499999998,2025
+DEU,Germany,Mobility and autonomous vehicles,VC,0,2015
+DEU,Germany,Mobility and autonomous vehicles,VC,1.780129,2017
+DEU,Germany,Mobility and autonomous vehicles,VC,1,2018
+DEU,Germany,Mobility and autonomous vehicles,VC,9.9421935,2019
+DEU,Germany,Mobility and autonomous vehicles,VC,24.251399,2020
+DEU,Germany,Mobility and autonomous vehicles,VC,154.4280615,2021
+DEU,Germany,Mobility and autonomous vehicles,VC,66.043168,2022
+DEU,Germany,Mobility and autonomous vehicles,VC,180.063693,2023
+DEU,Germany,Mobility and autonomous vehicles,VC,35.659356,2024
+DEU,Germany,Mobility and autonomous vehicles,VC,62.079797,2025
+FIN,Finland,Mobility and autonomous vehicles,VC,2.8,2015
+FIN,Finland,Mobility and autonomous vehicles,VC,14.2,2017
+FIN,Finland,Mobility and autonomous vehicles,VC,45.833148,2018
+FIN,Finland,Mobility and autonomous vehicles,VC,0,2019
+FIN,Finland,Mobility and autonomous vehicles,VC,87,2020
+FIN,Finland,Mobility and autonomous vehicles,VC,31.174824,2021
+FIN,Finland,Mobility and autonomous vehicles,VC,136,2022
+FIN,Finland,Mobility and autonomous vehicles,VC,18.382856,2023
+FIN,Finland,Mobility and autonomous vehicles,VC,17.475422,2024
+FIN,Finland,Mobility and autonomous vehicles,VC,25.830604,2025
+EST,Estonia,Mobility and autonomous vehicles,VC,2.832324,2013
+EST,Estonia,Mobility and autonomous vehicles,VC,2.3137,2014
+EST,Estonia,Mobility and autonomous vehicles,VC,11.939545,2015
+EST,Estonia,Mobility and autonomous vehicles,VC,17.20333,2016
+EST,Estonia,Mobility and autonomous vehicles,VC,16.556645,2017
+EST,Estonia,Mobility and autonomous vehicles,VC,46.542202,2020
+EST,Estonia,Mobility and autonomous vehicles,VC,93.698853,2021
+EST,Estonia,Mobility and autonomous vehicles,VC,44.24017,2022
+EST,Estonia,Mobility and autonomous vehicles,VC,4.328285,2023
+EST,Estonia,Mobility and autonomous vehicles,VC,9.220867,2025
+FRA,France,Mobility and autonomous vehicles,VC,1.054277,2013
+FRA,France,Mobility and autonomous vehicles,VC,15.032283000000001,2017
+FRA,France,Mobility and autonomous vehicles,VC,23.365832,2018
+FRA,France,Mobility and autonomous vehicles,VC,3.2110760000000003,2019
+FRA,France,Mobility and autonomous vehicles,VC,62.656366,2021
+FRA,France,Mobility and autonomous vehicles,VC,32.278128,2022
+FRA,France,Mobility and autonomous vehicles,VC,44.559924,2023
+FRA,France,Mobility and autonomous vehicles,VC,12.010989,2024
+FRA,France,Mobility and autonomous vehicles,VC,42.273559,2025
+CHE,Switzerland,Mobility and autonomous vehicles,VC,3.0923905,2013
+CHE,Switzerland,Mobility and autonomous vehicles,VC,5.564562,2014
+CHE,Switzerland,Mobility and autonomous vehicles,VC,19.5960225,2016
+CHE,Switzerland,Mobility and autonomous vehicles,VC,4.545117,2017
+CHE,Switzerland,Mobility and autonomous vehicles,VC,32.005089,2019
+CHE,Switzerland,Mobility and autonomous vehicles,VC,19.7,2021
+CHE,Switzerland,Mobility and autonomous vehicles,VC,62.645229,2022
+CHE,Switzerland,Mobility and autonomous vehicles,VC,0.169347,2024
+CHE,Switzerland,Mobility and autonomous vehicles,VC,6.36955,2025
+TUR,Türkiye,Mobility and autonomous vehicles,VC,0.5,2020
+TUR,Türkiye,Mobility and autonomous vehicles,VC,50,2021
+TUR,Türkiye,Mobility and autonomous vehicles,VC,37.56,2022
+ESP,Spain,Mobility and autonomous vehicles,VC,0.85,2012
+ESP,Spain,Mobility and autonomous vehicles,VC,3.773162,2016
+ESP,Spain,Mobility and autonomous vehicles,VC,0.48589299999999996,2017
+ESP,Spain,Mobility and autonomous vehicles,VC,5.423756,2020
+ESP,Spain,Mobility and autonomous vehicles,VC,5.8931135,2021
+ESP,Spain,Mobility and autonomous vehicles,VC,8.7659075,2022
+ESP,Spain,Mobility and autonomous vehicles,VC,8.505422,2023
+ESP,Spain,Mobility and autonomous vehicles,VC,36.446949000000004,2024
+ESP,Spain,Mobility and autonomous vehicles,VC,13.462384,2025
+BEL,Belgium,Mobility and autonomous vehicles,VC,12.731839,2019
+BEL,Belgium,Mobility and autonomous vehicles,VC,47.649091999999996,2022
+BEL,Belgium,Mobility and autonomous vehicles,VC,0.083074,2024
+BEL,Belgium,Mobility and autonomous vehicles,VC,15.719473999999998,2025
+DNK,Denmark,Mobility and autonomous vehicles,VC,2.1870005,2021
+DNK,Denmark,Mobility and autonomous vehicles,VC,61.799106,2022
+DNK,Denmark,Mobility and autonomous vehicles,VC,8.4004055,2025
+NOR,Norway,Mobility and autonomous vehicles,VC,3.2155050000000003,2019
+NOR,Norway,Mobility and autonomous vehicles,VC,20.508451,2021
+NOR,Norway,Mobility and autonomous vehicles,VC,5.575826,2023
+NOR,Norway,Mobility and autonomous vehicles,VC,1.193654,2024
+LUX,Luxembourg,Mobility and autonomous vehicles,VC,16.571805,2022
+LUX,Luxembourg,Mobility and autonomous vehicles,VC,3,2024
+NLD,Netherlands,Mobility and autonomous vehicles,VC,3.104816,2021
+NLD,Netherlands,Mobility and autonomous vehicles,VC,1.7,2023
+NLD,Netherlands,Mobility and autonomous vehicles,VC,2.760371,2024
+NLD,Netherlands,Mobility and autonomous vehicles,VC,2.180764,2025
+ITA,Italy,Mobility and autonomous vehicles,VC,0.296709,2021
+ITA,Italy,Mobility and autonomous vehicles,VC,1.147893,2022
+ITA,Italy,Mobility and autonomous vehicles,VC,2.735538,2023
+ITA,Italy,Mobility and autonomous vehicles,VC,2.306696,2024
+ITA,Italy,Mobility and autonomous vehicles,VC,1.314519,2025
+LTU,Lithuania,Mobility and autonomous vehicles,VC,5.3561440000000005,2024
+SWE,Sweden,Mobility and autonomous vehicles,VC,1.736246,2024
+SWE,Sweden,Mobility and autonomous vehicles,VC,1.5,2025
+PRT,Portugal,Mobility and autonomous vehicles,VC,2.91018,2022
+ISL,Iceland,Mobility and autonomous vehicles,VC,0,2019
+ISL,Iceland,Mobility and autonomous vehicles,VC,2.2,2023
+IRL,Ireland,Mobility and autonomous vehicles,VC,1.635797,2017
+UKR,Ukraine,Mobility and autonomous vehicles,VC,1.3,2025
+AUT,Austria,Mobility and autonomous vehicles,VC,1.223349,2021
+SVN,Slovenia,Mobility and autonomous vehicles,VC,1.2,2018

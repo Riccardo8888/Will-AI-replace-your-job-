@@ -1,0 +1,43 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+EU27,EU27,Consumer services,VC,1.5803345,2016
+EU27,EU27,Consumer services,VC,1.637136,2017
+EU27,EU27,Consumer services,VC,0.581444,2018
+EU27,EU27,Consumer services,VC,6.970864,2019
+EU27,EU27,Consumer services,VC,6.4493165,2020
+EU27,EU27,Consumer services,VC,11.4150835,2021
+EU27,EU27,Consumer services,VC,3.0208765,2022
+EU27,EU27,Consumer services,VC,7.789953,2023
+EU27,EU27,Consumer services,VC,2.763543,2024
+EU27,EU27,Consumer services,VC,3.771527,2025
+GBR,United Kingdom,Consumer services,VC,1.823638,2016
+GBR,United Kingdom,Consumer services,VC,3.5048690000000002,2019
+GBR,United Kingdom,Consumer services,VC,13.300104000000001,2020
+GBR,United Kingdom,Consumer services,VC,2.323451,2021
+GBR,United Kingdom,Consumer services,VC,1.826096,2022
+GBR,United Kingdom,Consumer services,VC,11.42868,2024
+GBR,United Kingdom,Consumer services,VC,0.955781,2025
+NLD,Netherlands,Consumer services,VC,0.941918,2016
+NLD,Netherlands,Consumer services,VC,2.0320245,2020
+NLD,Netherlands,Consumer services,VC,4.734572,2021
+NLD,Netherlands,Consumer services,VC,4.429331,2023
+NLD,Netherlands,Consumer services,VC,3.771527,2025
+ISL,Iceland,Consumer services,VC,2.1,2015
+ISL,Iceland,Consumer services,VC,13.5,2024
+FRA,France,Consumer services,VC,0.246133,2016
+FRA,France,Consumer services,VC,1.637136,2017
+FRA,France,Consumer services,VC,6.970864,2019
+FRA,France,Consumer services,VC,1.138447,2020
+FRA,France,Consumer services,VC,0.522976,2023
+ESP,Spain,Consumer services,VC,2.6451975,2021
+ESP,Spain,Consumer services,VC,1.791487,2022
+ESP,Spain,Consumer services,VC,2.837646,2023
+ESP,Spain,Consumer services,VC,1.515869,2024
+DEU,Germany,Consumer services,VC,0,2019
+DEU,Germany,Consumer services,VC,1.690643,2020
+DEU,Germany,Consumer services,VC,2.6,2021
+FIN,Finland,Consumer services,VC,0.3922835,2016
+FIN,Finland,Consumer services,VC,0.581444,2018
+FIN,Finland,Consumer services,VC,1.588202,2020
+FIN,Finland,Consumer services,VC,1.435314,2021
+LTU,Lithuania,Consumer services,VC,1.247674,2024
+GRC,Greece,Consumer services,VC,0,2025

@@ -1,0 +1,113 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+EU27,EU27,Energy, raw materials and utilities,VC,10.95068,2012
+EU27,EU27,Energy, raw materials and utilities,VC,2.616002,2013
+EU27,EU27,Energy, raw materials and utilities,VC,2.2831,2014
+EU27,EU27,Energy, raw materials and utilities,VC,1.1688619999999998,2015
+EU27,EU27,Energy, raw materials and utilities,VC,3.097464,2016
+EU27,EU27,Energy, raw materials and utilities,VC,12.256753,2017
+EU27,EU27,Energy, raw materials and utilities,VC,29.8519945,2018
+EU27,EU27,Energy, raw materials and utilities,VC,20.048196,2019
+EU27,EU27,Energy, raw materials and utilities,VC,6.35049,2020
+EU27,EU27,Energy, raw materials and utilities,VC,351.8164165,2021
+EU27,EU27,Energy, raw materials and utilities,VC,4264.958908,2022
+EU27,EU27,Energy, raw materials and utilities,VC,2552.7418119999998,2023
+EU27,EU27,Energy, raw materials and utilities,VC,1980.410585,2024
+EU27,EU27,Energy, raw materials and utilities,VC,383.52018799999996,2025
+SWE,Sweden,Energy, raw materials and utilities,VC,1.18887,2016
+SWE,Sweden,Energy, raw materials and utilities,VC,1.205946,2018
+SWE,Sweden,Energy, raw materials and utilities,VC,105,2021
+SWE,Sweden,Energy, raw materials and utilities,VC,4075.2207719999997,2022
+SWE,Sweden,Energy, raw materials and utilities,VC,1595.084799,2023
+SWE,Sweden,Energy, raw materials and utilities,VC,707.689576,2024
+SWE,Sweden,Energy, raw materials and utilities,VC,5.526717,2025
+DEU,Germany,Energy, raw materials and utilities,VC,1.780129,2017
+DEU,Germany,Energy, raw materials and utilities,VC,1.4559795,2018
+DEU,Germany,Energy, raw materials and utilities,VC,9.9421935,2019
+DEU,Germany,Energy, raw materials and utilities,VC,0,2020
+DEU,Germany,Energy, raw materials and utilities,VC,164.801478,2021
+DEU,Germany,Energy, raw materials and utilities,VC,186.882478,2022
+DEU,Germany,Energy, raw materials and utilities,VC,726.199301,2023
+DEU,Germany,Energy, raw materials and utilities,VC,1227.186702,2024
+DEU,Germany,Energy, raw materials and utilities,VC,277.616832,2025
+GBR,United Kingdom,Energy, raw materials and utilities,VC,6.768824,2012
+GBR,United Kingdom,Energy, raw materials and utilities,VC,35.275682,2015
+GBR,United Kingdom,Energy, raw materials and utilities,VC,1.345921,2017
+GBR,United Kingdom,Energy, raw materials and utilities,VC,3.369576,2018
+GBR,United Kingdom,Energy, raw materials and utilities,VC,23.886619,2020
+GBR,United Kingdom,Energy, raw materials and utilities,VC,48.527345,2021
+GBR,United Kingdom,Energy, raw materials and utilities,VC,11.832078,2022
+GBR,United Kingdom,Energy, raw materials and utilities,VC,73.5285515,2023
+GBR,United Kingdom,Energy, raw materials and utilities,VC,69.352619,2024
+GBR,United Kingdom,Energy, raw materials and utilities,VC,13.8782325,2025
+FRA,France,Energy, raw materials and utilities,VC,2.2831,2014
+FRA,France,Energy, raw materials and utilities,VC,1.1688619999999998,2015
+FRA,France,Energy, raw materials and utilities,VC,1.908594,2016
+FRA,France,Energy, raw materials and utilities,VC,10.476624000000001,2017
+FRA,France,Energy, raw materials and utilities,VC,26.852166,2018
+FRA,France,Energy, raw materials and utilities,VC,3.854527,2019
+FRA,France,Energy, raw materials and utilities,VC,45.188833,2021
+FRA,France,Energy, raw materials and utilities,VC,2.162199,2022
+FRA,France,Energy, raw materials and utilities,VC,122.54048600000002,2023
+FRA,France,Energy, raw materials and utilities,VC,8.658009,2024
+FRA,France,Energy, raw materials and utilities,VC,9.295914,2025
+NOR,Norway,Energy, raw materials and utilities,VC,0.831117,2016
+NOR,Norway,Energy, raw materials and utilities,VC,2.760026,2017
+NOR,Norway,Energy, raw materials and utilities,VC,24.169726,2019
+NOR,Norway,Energy, raw materials and utilities,VC,38.094115,2020
+NOR,Norway,Energy, raw materials and utilities,VC,6.73,2021
+NOR,Norway,Energy, raw materials and utilities,VC,102.712367,2022
+NOR,Norway,Energy, raw materials and utilities,VC,11.865394,2023
+NOR,Norway,Energy, raw materials and utilities,VC,4,2024
+NLD,Netherlands,Energy, raw materials and utilities,VC,6.251475500000001,2019
+NLD,Netherlands,Energy, raw materials and utilities,VC,2.0320245,2020
+NLD,Netherlands,Energy, raw materials and utilities,VC,9.499628,2021
+NLD,Netherlands,Energy, raw materials and utilities,VC,56.649322,2023
+NLD,Netherlands,Energy, raw materials and utilities,VC,60.583303,2025
+AUT,Austria,Energy, raw materials and utilities,VC,8.91444,2021
+AUT,Austria,Energy, raw materials and utilities,VC,4.282306,2023
+AUT,Austria,Energy, raw materials and utilities,VC,27.599574,2024
+AUT,Austria,Energy, raw materials and utilities,VC,2.840641,2025
+CHE,Switzerland,Energy, raw materials and utilities,VC,6.178115,2013
+CHE,Switzerland,Energy, raw materials and utilities,VC,1.518814,2019
+CHE,Switzerland,Energy, raw materials and utilities,VC,1.976382,2021
+CHE,Switzerland,Energy, raw materials and utilities,VC,9.210884,2022
+CHE,Switzerland,Energy, raw materials and utilities,VC,2.171248,2023
+CHE,Switzerland,Energy, raw materials and utilities,VC,3.5,2024
+IRL,Ireland,Energy, raw materials and utilities,VC,3.4,2021
+IRL,Ireland,Energy, raw materials and utilities,VC,0.294403,2022
+IRL,Ireland,Energy, raw materials and utilities,VC,18.056525,2023
+IRL,Ireland,Energy, raw materials and utilities,VC,0,2025
+EST,Estonia,Energy, raw materials and utilities,VC,2.032806,2021
+EST,Estonia,Energy, raw materials and utilities,VC,3.861108,2023
+EST,Estonia,Energy, raw materials and utilities,VC,6.712561,2024
+EST,Estonia,Energy, raw materials and utilities,VC,9.029786,2025
+ESP,Spain,Energy, raw materials and utilities,VC,1.1621055,2020
+ESP,Spain,Energy, raw materials and utilities,VC,1.4538115,2021
+ESP,Spain,Energy, raw materials and utilities,VC,3.243404,2023
+ESP,Spain,Energy, raw materials and utilities,VC,13.190387,2025
+SVK,Slovak Republic,Energy, raw materials and utilities,VC,16.799943,2023
+LUX,Luxembourg,Energy, raw materials and utilities,VC,10.95068,2012
+LUX,Luxembourg,Energy, raw materials and utilities,VC,2.616002,2013
+FIN,Finland,Energy, raw materials and utilities,VC,0,2016
+FIN,Finland,Energy, raw materials and utilities,VC,1.2357829999999999,2020
+FIN,Finland,Energy, raw materials and utilities,VC,7.271081,2021
+FIN,Finland,Energy, raw materials and utilities,VC,1.064653,2023
+FIN,Finland,Energy, raw materials and utilities,VC,0.828159,2024
+RUS,Russia,Energy, raw materials and utilities,VC,1.5,2017
+RUS,Russia,Energy, raw materials and utilities,VC,5,2019
+TUR,Türkiye,Energy, raw materials and utilities,VC,0.74,2017
+TUR,Türkiye,Energy, raw materials and utilities,VC,0.25,2019
+TUR,Türkiye,Energy, raw materials and utilities,VC,2.7,2022
+TUR,Türkiye,Energy, raw materials and utilities,VC,1.1,2024
+BEL,Belgium,Energy, raw materials and utilities,VC,0.170474,2022
+BEL,Belgium,Energy, raw materials and utilities,VC,1.26126,2023
+BEL,Belgium,Energy, raw materials and utilities,VC,2.167875,2025
+ITA,Italy,Energy, raw materials and utilities,VC,0.228582,2022
+ITA,Italy,Energy, raw materials and utilities,VC,1.077155,2023
+ITA,Italy,Energy, raw materials and utilities,VC,0.920443,2024
+ITA,Italy,Energy, raw materials and utilities,VC,1.102313,2025
+PRT,Portugal,Energy, raw materials and utilities,VC,0.815561,2024
+PRT,Portugal,Energy, raw materials and utilities,VC,2.16642,2025
+LTU,Lithuania,Energy, raw materials and utilities,VC,0.948538,2021
+LTU,Lithuania,Energy, raw materials and utilities,VC,0.62155,2023
+HUN,Hungary,Energy, raw materials and utilities,VC,0.035003,2018
