@@ -1,0 +1,276 @@
+Date,Topic,Job_postings
+2017-06-30,3D computer graphics software,7523
+2017-09-30,3D computer graphics software,19437
+2017-12-31,3D computer graphics software,19104
+2018-03-31,3D computer graphics software,18978
+2018-06-30,3D computer graphics software,19143
+2018-09-30,3D computer graphics software,17787
+2018-12-31,3D computer graphics software,16611
+2019-03-31,3D computer graphics software,16782
+2019-06-30,3D computer graphics software,16592
+2019-09-30,3D computer graphics software,16415
+2019-12-31,3D computer graphics software,11248
+2020-03-31,3D computer graphics software,18025
+2020-06-30,3D computer graphics software,17247
+2020-09-30,3D computer graphics software,15374
+2020-12-31,3D computer graphics software,17008
+2021-03-31,3D computer graphics software,13173
+2021-06-30,3D computer graphics software,12581
+2021-09-30,3D computer graphics software,12316
+2021-12-31,3D computer graphics software,4350
+2022-03-31,3D computer graphics software,12861
+2022-06-30,3D computer graphics software,14409
+2022-09-30,3D computer graphics software,14238
+2022-12-31,3D computer graphics software,40262
+2023-03-31,3D computer graphics software,59708
+2023-06-30,3D computer graphics software,40564
+2017-06-30,AI climate,11399
+2017-09-30,AI climate,30825
+2017-12-31,AI climate,32087
+2018-03-31,AI climate,31016
+2018-06-30,AI climate,31823
+2018-09-30,AI climate,33022
+2018-12-31,AI climate,32837
+2019-03-31,AI climate,35045
+2019-06-30,AI climate,39026
+2019-09-30,AI climate,40718
+2019-12-31,AI climate,28408
+2020-03-31,AI climate,45765
+2020-06-30,AI climate,36196
+2020-09-30,AI climate,42712
+2020-12-31,AI climate,44820
+2021-03-31,AI climate,41486
+2021-06-30,AI climate,44465
+2021-09-30,AI climate,46545
+2021-12-31,AI climate,15171
+2022-03-31,AI climate,53435
+2022-06-30,AI climate,64345
+2022-09-30,AI climate,69463
+2022-12-31,AI climate,223734
+2023-03-31,AI climate,369523
+2023-06-30,AI climate,244923
+2017-06-30,AI compute,48291
+2017-09-30,AI compute,133753
+2017-12-31,AI compute,141887
+2018-03-31,AI compute,140433
+2018-06-30,AI compute,141113
+2018-09-30,AI compute,149270
+2018-12-31,AI compute,153448
+2019-03-31,AI compute,165288
+2019-06-30,AI compute,177408
+2019-09-30,AI compute,179957
+2019-12-31,AI compute,124081
+2020-03-31,AI compute,204217
+2020-06-30,AI compute,172704
+2020-09-30,AI compute,195758
+2020-12-31,AI compute,204075
+2021-03-31,AI compute,183712
+2021-06-30,AI compute,187917
+2021-09-30,AI compute,196700
+2021-12-31,AI compute,76249
+2022-03-31,AI compute,198677
+2022-06-30,AI compute,234064
+2022-09-30,AI compute,245058
+2022-12-31,AI compute,748764
+2023-03-31,AI compute,1088390
+2023-06-30,AI compute,730074
+2017-06-30,Adobe Photoshop,6932
+2017-09-30,Adobe Photoshop,17812
+2017-12-31,Adobe Photoshop,17211
+2018-03-31,Adobe Photoshop,17222
+2018-06-30,Adobe Photoshop,17339
+2018-09-30,Adobe Photoshop,16118
+2018-12-31,Adobe Photoshop,14839
+2019-03-31,Adobe Photoshop,15174
+2019-06-30,Adobe Photoshop,14878
+2019-09-30,Adobe Photoshop,14571
+2019-12-31,Adobe Photoshop,9950
+2020-03-31,Adobe Photoshop,15825
+2020-06-30,Adobe Photoshop,15329
+2020-09-30,Adobe Photoshop,13469
+2020-12-31,Adobe Photoshop,15225
+2021-03-31,Adobe Photoshop,11676
+2021-06-30,Adobe Photoshop,10951
+2021-09-30,Adobe Photoshop,10693
+2021-12-31,Adobe Photoshop,3682
+2022-03-31,Adobe Photoshop,11172
+2022-06-30,Adobe Photoshop,12571
+2022-09-30,Adobe Photoshop,12494
+2022-12-31,Adobe Photoshop,34088
+2023-03-31,Adobe Photoshop,49800
+2023-06-30,Adobe Photoshop,33394
+2017-06-30,Apache Spark,2592
+2017-09-30,Apache Spark,7665
+2017-12-31,Apache Spark,8525
+2018-03-31,Apache Spark,8173
+2018-06-30,Apache Spark,8316
+2018-09-30,Apache Spark,8962
+2018-12-31,Apache Spark,9920
+2019-03-31,Apache Spark,10134
+2019-06-30,Apache Spark,10582
+2019-09-30,Apache Spark,10738
+2019-12-31,Apache Spark,7143
+2020-03-31,Apache Spark,11647
+2020-06-30,Apache Spark,10170
+2020-09-30,Apache Spark,10827
+2020-12-31,Apache Spark,11645
+2021-03-31,Apache Spark,10578
+2021-06-30,Apache Spark,11822
+2021-09-30,Apache Spark,12039
+2021-12-31,Apache Spark,3823
+2022-03-31,Apache Spark,11514
+2022-06-30,Apache Spark,12445
+2022-09-30,Apache Spark,13351
+2022-12-31,Apache Spark,51578
+2023-03-31,Apache Spark,64388
+2023-06-30,Apache Spark,38930
+2017-06-30,Generative AI,596
+2017-09-30,Generative AI,1688
+2017-12-31,Generative AI,1967
+2018-03-31,Generative AI,1806
+2018-06-30,Generative AI,1902
+2018-09-30,Generative AI,1766
+2018-12-31,Generative AI,1782
+2019-03-31,Generative AI,1917
+2019-06-30,Generative AI,2069
+2019-09-30,Generative AI,2148
+2019-12-31,Generative AI,1460
+2020-03-31,Generative AI,2214
+2020-06-30,Generative AI,1772
+2020-09-30,Generative AI,1911
+2020-12-31,Generative AI,2263
+2021-03-31,Generative AI,1943
+2021-06-30,Generative AI,1802
+2021-09-30,Generative AI,1967
+2021-12-31,Generative AI,880
+2022-03-31,Generative AI,2186
+2022-06-30,Generative AI,2016
+2022-09-30,Generative AI,2383
+2022-12-31,Generative AI,8808
+2023-03-31,Generative AI,15452
+2023-06-30,Generative AI,14151
+2017-06-30,cloud computing,28533
+2017-09-30,cloud computing,80525
+2017-12-31,cloud computing,89822
+2018-03-31,cloud computing,89066
+2018-06-30,cloud computing,88896
+2018-09-30,cloud computing,96544
+2018-12-31,cloud computing,103099
+2019-03-31,cloud computing,113321
+2019-06-30,cloud computing,124553
+2019-09-30,cloud computing,127993
+2019-12-31,cloud computing,88177
+2020-03-31,cloud computing,148179
+2020-06-30,cloud computing,125533
+2020-09-30,cloud computing,147745
+2020-12-31,cloud computing,157465
+2021-03-31,cloud computing,143725
+2021-06-30,cloud computing,148498
+2021-09-30,cloud computing,154146
+2021-12-31,cloud computing,57236
+2022-03-31,cloud computing,155722
+2022-06-30,cloud computing,185823
+2022-09-30,cloud computing,197128
+2022-12-31,cloud computing,625374
+2023-03-31,cloud computing,912782
+2023-06-30,cloud computing,599397
+2017-06-30,computer hardware,7669
+2017-09-30,computer hardware,20633
+2017-12-31,computer hardware,20599
+2018-03-31,computer hardware,20110
+2018-06-30,computer hardware,20279
+2018-09-30,computer hardware,20923
+2018-12-31,computer hardware,20360
+2019-03-31,computer hardware,21577
+2019-06-30,computer hardware,22167
+2019-09-30,computer hardware,21627
+2019-12-31,computer hardware,14658
+2020-03-31,computer hardware,22932
+2020-06-30,computer hardware,16990
+2020-09-30,computer hardware,18976
+2020-12-31,computer hardware,18227
+2021-03-31,computer hardware,14924
+2021-06-30,computer hardware,14530
+2021-09-30,computer hardware,16822
+2021-12-31,computer hardware,9156
+2022-03-31,computer hardware,15532
+2022-06-30,computer hardware,17152
+2022-09-30,computer hardware,17276
+2022-12-31,computer hardware,37740
+2023-03-31,computer hardware,55695
+2023-06-30,computer hardware,48244
+2017-06-30,ecosystem,1972
+2017-09-30,ecosystem,5558
+2017-12-31,ecosystem,6281
+2018-03-31,ecosystem,6118
+2018-06-30,ecosystem,6475
+2018-09-30,ecosystem,6709
+2018-12-31,ecosystem,7460
+2019-03-31,ecosystem,8359
+2019-06-30,ecosystem,9719
+2019-09-30,ecosystem,10657
+2019-12-31,ecosystem,7126
+2020-03-31,ecosystem,12486
+2020-06-30,ecosystem,10505
+2020-09-30,ecosystem,11901
+2020-12-31,ecosystem,13551
+2021-03-31,ecosystem,13485
+2021-06-30,ecosystem,14856
+2021-09-30,ecosystem,16012
+2021-12-31,ecosystem,5411
+2022-03-31,ecosystem,18517
+2022-06-30,ecosystem,21605
+2022-09-30,ecosystem,22222
+2022-12-31,ecosystem,70088
+2023-03-31,ecosystem,110739
+2023-06-30,ecosystem,72748
+2017-06-30,efficiency,8226
+2017-09-30,efficiency,22276
+2017-12-31,efficiency,23359
+2018-03-31,efficiency,22329
+2018-06-30,efficiency,22624
+2018-09-30,efficiency,23770
+2018-12-31,efficiency,22948
+2019-03-31,efficiency,23556
+2019-06-30,efficiency,25490
+2019-09-30,efficiency,26825
+2019-12-31,efficiency,19333
+2020-03-31,efficiency,29839
+2020-06-30,efficiency,23765
+2020-09-30,efficiency,28463
+2020-12-31,efficiency,29066
+2021-03-31,efficiency,25964
+2021-06-30,efficiency,27719
+2021-09-30,efficiency,28579
+2021-12-31,efficiency,8752
+2022-03-31,efficiency,33399
+2022-06-30,efficiency,41265
+2022-09-30,efficiency,45079
+2022-12-31,efficiency,147447
+2023-03-31,efficiency,252414
+2023-06-30,efficiency,166616
+2017-06-30,microsoft azure,2161
+2017-09-30,microsoft azure,5992
+2017-12-31,microsoft azure,6405
+2018-03-31,microsoft azure,7258
+2018-06-30,microsoft azure,7432
+2018-09-30,microsoft azure,8518
+2018-12-31,microsoft azure,9290
+2019-03-31,microsoft azure,10509
+2019-06-30,microsoft azure,11348
+2019-09-30,microsoft azure,11877
+2019-12-31,microsoft azure,8606
+2020-03-31,microsoft azure,15049
+2020-06-30,microsoft azure,11964
+2020-09-30,microsoft azure,14471
+2020-12-31,microsoft azure,16361
+2021-03-31,microsoft azure,16074
+2021-06-30,microsoft azure,16566
+2021-09-30,microsoft azure,19517
+2021-12-31,microsoft azure,6603
+2022-03-31,microsoft azure,18138
+2022-06-30,microsoft azure,21478
+2022-09-30,microsoft azure,25039
+2022-12-31,microsoft azure,96568
+2023-03-31,microsoft azure,114064
+2023-06-30,microsoft azure,76288
