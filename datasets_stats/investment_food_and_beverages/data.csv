@@ -1,0 +1,41 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+GBR,United Kingdom,Food and beverages,VC,0.190797,2016
+GBR,United Kingdom,Food and beverages,VC,7.792563,2017
+GBR,United Kingdom,Food and beverages,VC,19.602957,2018
+GBR,United Kingdom,Food and beverages,VC,1.7084730000000001,2019
+GBR,United Kingdom,Food and beverages,VC,8.207512000000001,2020
+GBR,United Kingdom,Food and beverages,VC,25.646795,2021
+GBR,United Kingdom,Food and beverages,VC,53.318805,2022
+GBR,United Kingdom,Food and beverages,VC,2.41951,2023
+GBR,United Kingdom,Food and beverages,VC,15,2024
+EU27,EU27,Food and beverages,VC,0.057839,2012
+EU27,EU27,Food and beverages,VC,0,2019
+EU27,EU27,Food and beverages,VC,5.7228745,2020
+EU27,EU27,Food and beverages,VC,8.257925,2021
+EU27,EU27,Food and beverages,VC,4.3,2022
+EU27,EU27,Food and beverages,VC,25.401281,2023
+EU27,EU27,Food and beverages,VC,7.721337999999999,2024
+EU27,EU27,Food and beverages,VC,14.4140495,2025
+DEU,Germany,Food and beverages,VC,0,2019
+DEU,Germany,Food and beverages,VC,23,2023
+DEU,Germany,Food and beverages,VC,5.3,2025
+SWE,Sweden,Food and beverages,VC,0.542125,2020
+SWE,Sweden,Food and beverages,VC,4.576285,2021
+SWE,Sweden,Food and beverages,VC,2,2022
+SWE,Sweden,Food and beverages,VC,4.474461,2024
+SWE,Sweden,Food and beverages,VC,2.5545185,2025
+ESP,Spain,Food and beverages,VC,1.1621055,2020
+ESP,Spain,Food and beverages,VC,3.562065,2021
+ESP,Spain,Food and beverages,VC,0.686145,2023
+ESP,Spain,Food and beverages,VC,3.246877,2024
+ESP,Spain,Food and beverages,VC,2.688864,2025
+CHE,Switzerland,Food and beverages,VC,2,2021
+CHE,Switzerland,Food and beverages,VC,5.5,2022
+FRA,France,Food and beverages,VC,0.057839,2012
+FRA,France,Food and beverages,VC,0.119575,2021
+FRA,France,Food and beverages,VC,0.823021,2023
+FRA,France,Food and beverages,VC,3.870667,2025
+AUT,Austria,Food and beverages,VC,1.118644,2020
+AUT,Austria,Food and beverages,VC,2.3,2022
+AUT,Austria,Food and beverages,VC,0.892115,2023
+DNK,Denmark,Food and beverages,VC,2.9,2020

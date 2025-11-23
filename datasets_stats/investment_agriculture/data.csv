@@ -1,0 +1,85 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+GBR,United Kingdom,Agriculture,VC,4.359726,2017
+GBR,United Kingdom,Agriculture,VC,28.345113,2018
+GBR,United Kingdom,Agriculture,VC,16.4863395,2019
+GBR,United Kingdom,Agriculture,VC,58.511849,2020
+GBR,United Kingdom,Agriculture,VC,296.369391,2021
+GBR,United Kingdom,Agriculture,VC,14.701540000000001,2022
+GBR,United Kingdom,Agriculture,VC,4.777191,2023
+GBR,United Kingdom,Agriculture,VC,7.740658,2024
+GBR,United Kingdom,Agriculture,VC,13.10006,2025
+EU27,EU27,Agriculture,VC,0.60223,2012
+EU27,EU27,Agriculture,VC,2.873224,2013
+EU27,EU27,Agriculture,VC,2.828137,2016
+EU27,EU27,Agriculture,VC,4.920574,2017
+EU27,EU27,Agriculture,VC,16.796348,2018
+EU27,EU27,Agriculture,VC,12.558964,2019
+EU27,EU27,Agriculture,VC,18.686439,2020
+EU27,EU27,Agriculture,VC,38.354559,2021
+EU27,EU27,Agriculture,VC,66.605147,2022
+EU27,EU27,Agriculture,VC,62.455638,2023
+EU27,EU27,Agriculture,VC,57.1572155,2024
+EU27,EU27,Agriculture,VC,42.450902,2025
+FRA,France,Agriculture,VC,0.60223,2012
+FRA,France,Agriculture,VC,1.57155,2013
+FRA,France,Agriculture,VC,2.828137,2016
+FRA,France,Agriculture,VC,3.041608,2017
+FRA,France,Agriculture,VC,11.704608,2018
+FRA,France,Agriculture,VC,9.776063,2019
+FRA,France,Agriculture,VC,16.145028,2020
+FRA,France,Agriculture,VC,29.718897000000002,2021
+FRA,France,Agriculture,VC,48.998095000000006,2022
+FRA,France,Agriculture,VC,7.496968,2023
+FRA,France,Agriculture,VC,23.278699999999997,2024
+FRA,France,Agriculture,VC,37.168058,2025
+CHE,Switzerland,Agriculture,VC,0.799851,2012
+CHE,Switzerland,Agriculture,VC,1.062114,2013
+CHE,Switzerland,Agriculture,VC,2.09014,2015
+CHE,Switzerland,Agriculture,VC,3.052047,2016
+CHE,Switzerland,Agriculture,VC,14.181047,2017
+CHE,Switzerland,Agriculture,VC,10.945189,2018
+CHE,Switzerland,Agriculture,VC,1.074676,2019
+CHE,Switzerland,Agriculture,VC,8.97,2020
+CHE,Switzerland,Agriculture,VC,19.7,2021
+CHE,Switzerland,Agriculture,VC,9.2,2022
+CHE,Switzerland,Agriculture,VC,53.421690999999996,2023
+NLD,Netherlands,Agriculture,VC,1.7,2019
+NLD,Netherlands,Agriculture,VC,3.939786,2021
+NLD,Netherlands,Agriculture,VC,15.540405,2022
+NLD,Netherlands,Agriculture,VC,47.163369,2023
+NLD,Netherlands,Agriculture,VC,8.45416,2024
+NLD,Netherlands,Agriculture,VC,3.766016,2025
+NOR,Norway,Agriculture,VC,4,2015
+NOR,Norway,Agriculture,VC,10.585235,2020
+NOR,Norway,Agriculture,VC,4.1,2021
+NOR,Norway,Agriculture,VC,18.668048,2022
+NOR,Norway,Agriculture,VC,1.781582,2023
+NOR,Norway,Agriculture,VC,11.5,2024
+NOR,Norway,Agriculture,VC,16.589064999999998,2025
+DNK,Denmark,Agriculture,VC,1.878966,2017
+DNK,Denmark,Agriculture,VC,1.878966,2018
+DNK,Denmark,Agriculture,VC,1.876386,2020
+DNK,Denmark,Agriculture,VC,1.395876,2021
+DNK,Denmark,Agriculture,VC,1.620709,2023
+DNK,Denmark,Agriculture,VC,11.65017,2024
+ESP,Spain,Agriculture,VC,3.3,2021
+ESP,Spain,Agriculture,VC,5.735704999999999,2023
+ESP,Spain,Agriculture,VC,2.993772,2024
+SWE,Sweden,Agriculture,VC,1.082901,2019
+SWE,Sweden,Agriculture,VC,0.245994,2022
+SWE,Sweden,Agriculture,VC,6.185778,2024
+IRL,Ireland,Agriculture,VC,1.301674,2013
+IRL,Ireland,Agriculture,VC,3.212774,2018
+IRL,Ireland,Agriculture,VC,1.07757,2022
+ITA,Italy,Agriculture,VC,0.743083,2022
+ITA,Italy,Agriculture,VC,1.736142,2024
+HUN,Hungary,Agriculture,VC,2,2024
+AUT,Austria,Agriculture,VC,1.516828,2025
+TUR,Türkiye,Agriculture,VC,0.299656,2018
+TUR,Türkiye,Agriculture,VC,0.427564,2019
+TUR,Türkiye,Agriculture,VC,0.1708,2023
+FIN,Finland,Agriculture,VC,0.665025,2020
+SRB,Serbia,Agriculture,VC,0.6,2018
+SRB,Serbia,Agriculture,VC,0,2021
+UKR,Ukraine,Agriculture,VC,0.5,2017
+RUS,Russia,Agriculture,VC,0.432341,2018

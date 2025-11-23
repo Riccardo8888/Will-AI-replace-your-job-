@@ -1,0 +1,30 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+EU27,EU27,Construction and air conditioning,VC,3.6321410000000003,2021
+EU27,EU27,Construction and air conditioning,VC,3.631222,2022
+EU27,EU27,Construction and air conditioning,VC,6.511171,2023
+EU27,EU27,Construction and air conditioning,VC,51.827329999999996,2024
+EU27,EU27,Construction and air conditioning,VC,5.370183,2025
+GBR,United Kingdom,Construction and air conditioning,VC,0.25,2012
+GBR,United Kingdom,Construction and air conditioning,VC,0.016501,2014
+GBR,United Kingdom,Construction and air conditioning,VC,21.045876,2022
+GBR,United Kingdom,Construction and air conditioning,VC,6.787566,2023
+GBR,United Kingdom,Construction and air conditioning,VC,20.834496,2025
+DEU,Germany,Construction and air conditioning,VC,3.48402,2021
+DEU,Germany,Construction and air conditioning,VC,3.655813,2023
+DEU,Germany,Construction and air conditioning,VC,26.610636,2024
+DEU,Germany,Construction and air conditioning,VC,5.370183,2025
+NLD,Netherlands,Construction and air conditioning,VC,25,2024
+CHE,Switzerland,Construction and air conditioning,VC,0.704846,2019
+CHE,Switzerland,Construction and air conditioning,VC,1.721242,2020
+CHE,Switzerland,Construction and air conditioning,VC,8.2113525,2021
+CHE,Switzerland,Construction and air conditioning,VC,1.5894675,2023
+NOR,Norway,Construction and air conditioning,VC,1.553156,2019
+NOR,Norway,Construction and air conditioning,VC,3.504298,2021
+NOR,Norway,Construction and air conditioning,VC,1.24323,2022
+AUT,Austria,Construction and air conditioning,VC,3.631222,2022
+AUT,Austria,Construction and air conditioning,VC,0.520959,2023
+FIN,Finland,Construction and air conditioning,VC,2.121692,2023
+ESP,Spain,Construction and air conditioning,VC,0.107971,2023
+ESP,Spain,Construction and air conditioning,VC,0.216694,2024
+FRA,France,Construction and air conditioning,VC,0.148121,2021
+FRA,France,Construction and air conditioning,VC,0.104736,2023

@@ -1,0 +1,144 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+GBR,United Kingdom,Education and training,VC,4.9303245,2012
+GBR,United Kingdom,Education and training,VC,0.822383,2013
+GBR,United Kingdom,Education and training,VC,1.776005,2014
+GBR,United Kingdom,Education and training,VC,6.377732,2015
+GBR,United Kingdom,Education and training,VC,6.588311,2016
+GBR,United Kingdom,Education and training,VC,11.859385,2017
+GBR,United Kingdom,Education and training,VC,25.01274,2018
+GBR,United Kingdom,Education and training,VC,30.7274325,2019
+GBR,United Kingdom,Education and training,VC,33.229875,2020
+GBR,United Kingdom,Education and training,VC,469.494808,2021
+GBR,United Kingdom,Education and training,VC,475.368142,2022
+GBR,United Kingdom,Education and training,VC,175.416896,2023
+GBR,United Kingdom,Education and training,VC,41.398548,2024
+GBR,United Kingdom,Education and training,VC,33.4984325,2025
+EU27,EU27,Education and training,VC,7.221997,2012
+EU27,EU27,Education and training,VC,13.258073999999999,2013
+EU27,EU27,Education and training,VC,2.8133065000000004,2014
+EU27,EU27,Education and training,VC,41.616473,2015
+EU27,EU27,Education and training,VC,7.3148599999999995,2016
+EU27,EU27,Education and training,VC,7.731968999999999,2017
+EU27,EU27,Education and training,VC,96.2515615,2018
+EU27,EU27,Education and training,VC,37.296619,2019
+EU27,EU27,Education and training,VC,61.044810999999996,2020
+EU27,EU27,Education and training,VC,237.119271,2021
+EU27,EU27,Education and training,VC,160.3977855,2022
+EU27,EU27,Education and training,VC,46.565905,2023
+EU27,EU27,Education and training,VC,108.38798,2024
+EU27,EU27,Education and training,VC,49.800475,2025
+FRA,France,Education and training,VC,1.656909,2012
+FRA,France,Education and training,VC,2.6294259999999996,2013
+FRA,France,Education and training,VC,0.026885,2014
+FRA,France,Education and training,VC,1.5279120000000002,2015
+FRA,France,Education and training,VC,6.665379,2016
+FRA,France,Education and training,VC,1.254112,2017
+FRA,France,Education and training,VC,62.6077775,2018
+FRA,France,Education and training,VC,26.227628,2019
+FRA,France,Education and training,VC,24.887652000000003,2020
+FRA,France,Education and training,VC,79.491253,2021
+FRA,France,Education and training,VC,2.881101,2022
+FRA,France,Education and training,VC,8.055621,2023
+FRA,France,Education and training,VC,7.430618000000001,2024
+FRA,France,Education and training,VC,14.928704000000002,2025
+DEU,Germany,Education and training,VC,10,2013
+DEU,Germany,Education and training,VC,27,2015
+DEU,Germany,Education and training,VC,2.751432,2017
+DEU,Germany,Education and training,VC,8.529078,2018
+DEU,Germany,Education and training,VC,2.298352,2019
+DEU,Germany,Education and training,VC,23.378141,2020
+DEU,Germany,Education and training,VC,39.305087,2021
+DEU,Germany,Education and training,VC,44.462963,2022
+DEU,Germany,Education and training,VC,29.328860999999996,2023
+DEU,Germany,Education and training,VC,34.325036,2024
+DEU,Germany,Education and training,VC,3.6745669999999997,2025
+NLD,Netherlands,Education and training,VC,0.5,2013
+NLD,Netherlands,Education and training,VC,1,2014
+NLD,Netherlands,Education and training,VC,1.512718,2015
+NLD,Netherlands,Education and training,VC,4.774466,2019
+NLD,Netherlands,Education and training,VC,1.393112,2020
+NLD,Netherlands,Education and training,VC,52.722233,2021
+NLD,Netherlands,Education and training,VC,30,2022
+NLD,Netherlands,Education and training,VC,0.52187,2023
+NLD,Netherlands,Education and training,VC,2.174231,2024
+NLD,Netherlands,Education and training,VC,3.235045,2025
+IRL,Ireland,Education and training,VC,0.555123,2016
+IRL,Ireland,Education and training,VC,1.098505,2017
+IRL,Ireland,Education and training,VC,18.8,2018
+IRL,Ireland,Education and training,VC,1.8806829999999999,2020
+IRL,Ireland,Education and training,VC,36.721074,2021
+IRL,Ireland,Education and training,VC,1.894847,2023
+IRL,Ireland,Education and training,VC,4.151869,2024
+IRL,Ireland,Education and training,VC,6.5,2025
+ESP,Spain,Education and training,VC,5.565088,2012
+ESP,Spain,Education and training,VC,0.128648,2013
+ESP,Spain,Education and training,VC,0.770714,2017
+ESP,Spain,Education and training,VC,0.361711,2019
+ESP,Spain,Education and training,VC,1.7803925,2020
+ESP,Spain,Education and training,VC,7.215628,2021
+ESP,Spain,Education and training,VC,12.106435,2022
+ESP,Spain,Education and training,VC,4.19149,2023
+ESP,Spain,Education and training,VC,11.874303000000001,2024
+ESP,Spain,Education and training,VC,6.519189,2025
+FIN,Finland,Education and training,VC,1.317518,2017
+FIN,Finland,Education and training,VC,2.973397,2018
+FIN,Finland,Education and training,VC,0.68,2021
+FIN,Finland,Education and training,VC,43.6828385,2022
+ITA,Italy,Education and training,VC,1.211077,2015
+ITA,Italy,Education and training,VC,2.213374,2020
+ITA,Italy,Education and training,VC,1.163432,2021
+ITA,Italy,Education and training,VC,13.701635000000001,2022
+ITA,Italy,Education and training,VC,18.790627999999998,2024
+ITA,Italy,Education and training,VC,0.701005,2025
+CHE,Switzerland,Education and training,VC,1.936703,2018
+CHE,Switzerland,Education and training,VC,3.015419,2019
+CHE,Switzerland,Education and training,VC,2.572521,2020
+CHE,Switzerland,Education and training,VC,4.065884,2021
+CHE,Switzerland,Education and training,VC,8.456636,2022
+CHE,Switzerland,Education and training,VC,1.5,2023
+CHE,Switzerland,Education and training,VC,1.07915,2025
+EST,Estonia,Education and training,VC,1.7864215,2014
+EST,Estonia,Education and training,VC,8,2015
+EST,Estonia,Education and training,VC,0,2016
+EST,Estonia,Education and training,VC,0.12,2020
+EST,Estonia,Education and training,VC,6.096628,2021
+EST,Estonia,Education and training,VC,3.6,2025
+DNK,Denmark,Education and training,VC,2.364766,2015
+DNK,Denmark,Education and training,VC,0.80017,2018
+DNK,Denmark,Education and training,VC,0.699633,2020
+DNK,Denmark,Education and training,VC,2.874807,2021
+DNK,Denmark,Education and training,VC,2.705672,2024
+DNK,Denmark,Education and training,VC,9.972835,2025
+BEL,Belgium,Education and training,VC,0.094358,2016
+BEL,Belgium,Education and training,VC,0.319345,2017
+BEL,Belgium,Education and training,VC,0.017877,2018
+BEL,Belgium,Education and training,VC,0.175501,2019
+BEL,Belgium,Education and training,VC,1.73031,2020
+BEL,Belgium,Education and training,VC,4.106822,2021
+BEL,Belgium,Education and training,VC,8.986703,2022
+BEL,Belgium,Education and training,VC,0.66913,2025
+AUT,Austria,Education and training,VC,0.220343,2017
+AUT,Austria,Education and training,VC,1.148706,2019
+AUT,Austria,Education and training,VC,1.552485,2021
+AUT,Austria,Education and training,VC,4.57611,2022
+AUT,Austria,Education and training,VC,1.630431,2023
+AUT,Austria,Education and training,VC,4.447563000000001,2024
+SWE,Sweden,Education and training,VC,2.043262,2018
+SWE,Sweden,Education and training,VC,1.210255,2019
+SWE,Sweden,Education and training,VC,2.4503765,2020
+SWE,Sweden,Education and training,VC,2.122798,2021
+SWE,Sweden,Education and training,VC,2.912994,2024
+POL,Poland,Education and training,VC,10.388596000000001,2024
+NOR,Norway,Education and training,VC,7.887887,2023
+LTU,Lithuania,Education and training,VC,1.05,2021
+LTU,Lithuania,Education and training,VC,4.143848,2024
+BGR,Bulgaria,Education and training,VC,4.5,2024
+TUR,Türkiye,Education and training,VC,3.7,2022
+TUR,Türkiye,Education and training,VC,0.6,2024
+ROU,Romania,Education and training,VC,0.511137,2020
+ROU,Romania,Education and training,VC,2.017024,2021
+RUS,Russia,Education and training,VC,2.1129965,2020
+HUN,Hungary,Education and training,VC,0.48,2018
+HUN,Hungary,Education and training,VC,0.542622,2024
+HRV,Croatia,Education and training,VC,0.628026,2023
+UKR,Ukraine,Education and training,VC,0,2025

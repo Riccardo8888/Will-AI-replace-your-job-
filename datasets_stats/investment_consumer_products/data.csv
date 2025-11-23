@@ -1,0 +1,73 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+TUR,Türkiye,Consumer products,VC,1.28,2018
+TUR,Türkiye,Consumer products,VC,1850,2021
+TUR,Türkiye,Consumer products,VC,0.38,2022
+TUR,Türkiye,Consumer products,VC,3,2023
+CHE,Switzerland,Consumer products,VC,5.564562,2014
+CHE,Switzerland,Consumer products,VC,4.3828879999999995,2015
+CHE,Switzerland,Consumer products,VC,7.5,2017
+CHE,Switzerland,Consumer products,VC,32,2018
+CHE,Switzerland,Consumer products,VC,14.853457500000001,2019
+CHE,Switzerland,Consumer products,VC,14.041682,2020
+CHE,Switzerland,Consumer products,VC,11.520799,2021
+CHE,Switzerland,Consumer products,VC,28.635353,2022
+CHE,Switzerland,Consumer products,VC,43,2023
+CHE,Switzerland,Consumer products,VC,38.059001,2024
+CHE,Switzerland,Consumer products,VC,10,2025
+EU27,EU27,Consumer products,VC,2.429005,2012
+EU27,EU27,Consumer products,VC,2.910877,2014
+EU27,EU27,Consumer products,VC,3.163396,2015
+EU27,EU27,Consumer products,VC,17.150838,2016
+EU27,EU27,Consumer products,VC,0.384325,2017
+EU27,EU27,Consumer products,VC,24.651352499999998,2018
+EU27,EU27,Consumer products,VC,3.8849355,2019
+EU27,EU27,Consumer products,VC,8.335835,2020
+EU27,EU27,Consumer products,VC,7.484379000000001,2021
+EU27,EU27,Consumer products,VC,20.007554,2022
+EU27,EU27,Consumer products,VC,24.8849555,2023
+EU27,EU27,Consumer products,VC,19.493477,2024
+EU27,EU27,Consumer products,VC,5.456746,2025
+GBR,United Kingdom,Consumer products,VC,0.32,2013
+GBR,United Kingdom,Consumer products,VC,2.008208,2018
+GBR,United Kingdom,Consumer products,VC,0.65,2019
+GBR,United Kingdom,Consumer products,VC,6.192722,2021
+GBR,United Kingdom,Consumer products,VC,26.84912,2022
+GBR,United Kingdom,Consumer products,VC,48.610672,2023
+GBR,United Kingdom,Consumer products,VC,22.7675375,2024
+GBR,United Kingdom,Consumer products,VC,20.2205175,2025
+FRA,France,Consumer products,VC,2.429005,2012
+FRA,France,Consumer products,VC,2.910877,2014
+FRA,France,Consumer products,VC,3.163396,2015
+FRA,France,Consumer products,VC,16.153436,2016
+FRA,France,Consumer products,VC,0.384325,2017
+FRA,France,Consumer products,VC,20.400682,2018
+FRA,France,Consumer products,VC,3.0705105,2019
+FRA,France,Consumer products,VC,8.335835,2020
+FRA,France,Consumer products,VC,3.5890429999999998,2022
+FRA,France,Consumer products,VC,3.1994145,2023
+FRA,France,Consumer products,VC,16.247007,2024
+DEU,Germany,Consumer products,VC,2.8840325,2018
+DEU,Germany,Consumer products,VC,0.081123,2019
+DEU,Germany,Consumer products,VC,4.549061,2022
+DEU,Germany,Consumer products,VC,3.04778,2023
+DEU,Germany,Consumer products,VC,5.456746,2025
+SWE,Sweden,Consumer products,VC,5,2021
+SWE,Sweden,Consumer products,VC,7.128629,2022
+NOR,Norway,Consumer products,VC,0,2018
+NOR,Norway,Consumer products,VC,1.86436,2019
+NOR,Norway,Consumer products,VC,2.71484,2020
+NOR,Norway,Consumer products,VC,3.504298,2021
+NOR,Norway,Consumer products,VC,3.833625,2022
+PRT,Portugal,Consumer products,VC,10.762316,2023
+BEL,Belgium,Consumer products,VC,4.733161,2023
+BEL,Belgium,Consumer products,VC,1.622337,2024
+NLD,Netherlands,Consumer products,VC,0.941918,2016
+NLD,Netherlands,Consumer products,VC,3.142284,2023
+NLD,Netherlands,Consumer products,VC,1.624133,2024
+ESP,Spain,Consumer products,VC,0.888679,2018
+ESP,Spain,Consumer products,VC,4.740821,2022
+ITA,Italy,Consumer products,VC,0.055484,2016
+ITA,Italy,Consumer products,VC,0.477959,2018
+ITA,Italy,Consumer products,VC,0.733302,2019
+ITA,Italy,Consumer products,VC,2.4843789999999997,2021
+RUS,Russia,Consumer products,VC,0.5,2019

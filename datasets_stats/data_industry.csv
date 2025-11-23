@@ -1,0 +1,112 @@
+country_iso3,Country_label,Industry,AI_engineering_skills_penetration_factor,deals_mean,deals_total
+FRA,France,Education,1.21742,17.16221267857143,240.27097750000001
+GBR,United Kingdom,Education,1.09068,94.03578675,1316.5010144999999
+DEU,Germany,Education,1.07973,20.459410636363636,225.053517
+ESP,Spain,Education,1.01223,5.05135985,50.5135985
+TUR,Türkiye,Education,0.90662,2.15,4.3
+CHE,Switzerland,Education,0.86474,3.2323304285714283,22.626313
+ITA,Italy,Education,0.70776,6.2968585,37.781151
+NLD,Netherlands,Education,0.67867,9.7833675,97.833675
+POL,Poland,Education,0.64064,10.388596,10.388596
+AUT,Austria,Education,0.63672,2.2626063333333333,13.575638
+SWE,Sweden,Education,0.59321,2.1479371,10.7396855
+PRT,Portugal,Education,0.59017,NA,NA
+DNK,Denmark,Education,0.57694,3.2363138333333334,19.417883
+FIN,Finland,Education,0.56649,12.163438375,48.6537535
+ROU,Romania,Education,0.54823,1.2640805,2.528161
+IRL,Ireland,Education,0.54399,8.950262625,71.602101
+GRC,Greece,Education,0.52158,NA,NA
+HUN,Hungary,Education,0.49054,0.5113110000000001,1.0226220000000001
+NOR,Norway,Education,0.46845,7.887887,7.887887
+BEL,Belgium,Education,0.45424,2.01250575,16.100046
+CZE,Czech Republic,Education,0.36175,NA,NA
+FRA,France,Financial services,1.16051,164.17132773076924,2134.2272605000003
+GBR,United Kingdom,Financial services,1.05743,686.0800650357143,9605.1209105
+DEU,Germany,Financial services,0.97707,164.01669317857144,2296.2337045
+NLD,Netherlands,Financial services,0.80375,46.05090071428572,322.356305
+CHE,Switzerland,Financial services,0.77046,162.36853170833334,1948.4223805
+POL,Poland,Financial services,0.73538,NA,NA
+ESP,Spain,Financial services,0.72797,23.15451925,277.85423099999997
+TUR,Türkiye,Financial services,0.70939,6.173724333333333,18.521173
+ITA,Italy,Financial services,0.69189,26.166066277777777,235.4945965
+IRL,Ireland,Financial services,0.57221,24.81969216666667,297.83630600000004
+PRT,Portugal,Financial services,0.54201,2.3659096666666666,7.097729
+DNK,Denmark,Financial services,0.45325,8.670024833333333,52.020149
+SWE,Sweden,Financial services,0.44765,412.38244586363635,4536.2069045
+GRC,Greece,Financial services,0.43365,NA,NA
+BEL,Belgium,Financial services,0.40167,3.30264,29.72376
+NOR,Norway,Financial services,0.36096,0.4611575,0.922315
+AUT,Austria,Financial services,0.31084,103.497842,517.48921
+FIN,Finland,Financial services,0.25097,7.6756055,30.702422
+DEU,Germany,Manufacturing,1.34492,141.03817962244898,6910.8708015
+FRA,France,Manufacturing,1.09343,71.23618543939394,4701.588239
+GBR,United Kingdom,Manufacturing,0.97002,222.59729494520548,16249.602531
+TUR,Türkiye,Manufacturing,0.91204,194.361802,1943.6180200000001
+ESP,Spain,Manufacturing,0.86755,29.554333426829267,1211.7276705
+NLD,Netherlands,Manufacturing,0.84671,25.610776224137933,742.7125105
+ITA,Italy,Manufacturing,0.80064,8.135793178571427,227.802209
+SWE,Sweden,Manufacturing,0.79984,31.019063783333333,930.5719134999999
+POL,Poland,Manufacturing,0.74718,19.9272015,239.126418
+CHE,Switzerland,Manufacturing,0.64757,11.775451152173913,541.670753
+HUN,Hungary,Manufacturing,0.62913,10.389973625,83.119789
+ROU,Romania,Manufacturing,0.60725,29.488406125,235.907249
+IRL,Ireland,Manufacturing,0.57365,34.91797927272727,768.195544
+AUT,Austria,Manufacturing,0.51167,24.959788642857145,524.1555615
+DNK,Denmark,Manufacturing,0.50346,27.230136318181817,599.062999
+PRT,Portugal,Manufacturing,0.49673,80.0917563,1201.3763445
+FIN,Finland,Manufacturing,0.49601,26.581792328125,850.6173545
+CZE,Czech Republic,Manufacturing,0.45332,8.712001625,69.696013
+BEL,Belgium,Manufacturing,0.43701,12.399208,210.786536
+GRC,Greece,Manufacturing,0.33568,5.7692266666666665,17.30768
+NOR,Norway,Manufacturing,0.31309,5.838189391304348,134.278356
+DEU,Germany,Professional services,1.34309,303.1215405882353,5153.06619
+FRA,France,Professional services,1.23972,118.90738834210526,2259.2403784999997
+GBR,United Kingdom,Professional services,1.23009,257.19147095238094,5401.02089
+ESP,Spain,Professional services,1.20686,105.59785966666666,1900.761474
+ITA,Italy,Professional services,1.01628,17.873720777777777,160.863487
+NLD,Netherlands,Professional services,0.97808,53.962472,971.324496
+TUR,Türkiye,Professional services,0.79876,3.974599,23.847593999999997
+CHE,Switzerland,Professional services,0.76315,66.594867,799.138404
+POL,Poland,Professional services,0.75661,2.1015480625,16.8123845
+GRC,Greece,Professional services,0.7363,0.5204706666666666,1.561412
+SWE,Sweden,Professional services,0.68875,27.787832714285717,389.02965800000004
+PRT,Portugal,Professional services,0.66938,3.8947525,35.052772499999996
+BEL,Belgium,Professional services,0.65777,55.61903511538461,723.0474565
+DNK,Denmark,Professional services,0.61558,20.702613583333335,248.431363
+FIN,Finland,Professional services,0.60214,10.209979,183.77962200000002
+ROU,Romania,Professional services,0.55295,1.2560115,6.2800575
+AUT,Austria,Professional services,0.54756,15.331959833333332,137.9876385
+IRL,Ireland,Professional services,0.51471,17.14997,171.49970000000002
+HUN,Hungary,Professional services,0.46154,1.0453267142857143,7.317287
+CZE,Czech Republic,Professional services,0.45583,3.3270804,16.635402
+NOR,Norway,Professional services,0.40613,36.3013498125,290.4107985
+HRV,Croatia,Professional services,0.34976,1.5819686,7.9098429999999995
+LTU,Lithuania,Professional services,0.27937,61.141297200000004,305.70648600000004
+SVN,Slovenia,Professional services,0.25466,NA,NA
+EST,Estonia,Professional services,0.18203,11.536509899999999,115.365099
+LUX,Luxembourg,Professional services,0.13143,1.214625,1.214625
+DEU,Germany,"Technology, information and media",1.12877,NA,NA
+GBR,United Kingdom,"Technology, information and media",1.10124,NA,NA
+FRA,France,"Technology, information and media",1.0662,NA,NA
+TUR,Türkiye,"Technology, information and media",0.94351,NA,NA
+ESP,Spain,"Technology, information and media",0.90003,NA,NA
+NLD,Netherlands,"Technology, information and media",0.81927,NA,NA
+POL,Poland,"Technology, information and media",0.78612,NA,NA
+ITA,Italy,"Technology, information and media",0.73509,NA,NA
+IRL,Ireland,"Technology, information and media",0.65522,NA,NA
+SWE,Sweden,"Technology, information and media",0.65411,NA,NA
+CHE,Switzerland,"Technology, information and media",0.64894,NA,NA
+PRT,Portugal,"Technology, information and media",0.61116,NA,NA
+ROU,Romania,"Technology, information and media",0.59315,NA,NA
+FIN,Finland,"Technology, information and media",0.59175,NA,NA
+GRC,Greece,"Technology, information and media",0.55634,NA,NA
+CZE,Czech Republic,"Technology, information and media",0.52271,NA,NA
+BEL,Belgium,"Technology, information and media",0.52086,NA,NA
+DNK,Denmark,"Technology, information and media",0.51954,NA,NA
+HUN,Hungary,"Technology, information and media",0.51261,NA,NA
+AUT,Austria,"Technology, information and media",0.47732,NA,NA
+NOR,Norway,"Technology, information and media",0.45477,NA,NA
+EST,Estonia,"Technology, information and media",0.29788,NA,NA
+HRV,Croatia,"Technology, information and media",0.29266,NA,NA
+LUX,Luxembourg,"Technology, information and media",0.28792,NA,NA
+LTU,Lithuania,Technology,0.27527,NA,NA

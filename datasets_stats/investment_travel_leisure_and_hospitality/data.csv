@@ -1,0 +1,90 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+GBR,United Kingdom,Travel, leisure and hospitality,VC,0.541314,2014
+GBR,United Kingdom,Travel, leisure and hospitality,VC,3.900516,2016
+GBR,United Kingdom,Travel, leisure and hospitality,VC,1.111516,2017
+GBR,United Kingdom,Travel, leisure and hospitality,VC,6.509091,2018
+GBR,United Kingdom,Travel, leisure and hospitality,VC,1.951533,2019
+GBR,United Kingdom,Travel, leisure and hospitality,VC,4.0053469999999995,2020
+GBR,United Kingdom,Travel, leisure and hospitality,VC,82.576621,2021
+GBR,United Kingdom,Travel, leisure and hospitality,VC,41.395613,2022
+GBR,United Kingdom,Travel, leisure and hospitality,VC,14.194759999999999,2023
+GBR,United Kingdom,Travel, leisure and hospitality,VC,375.614413,2024
+GBR,United Kingdom,Travel, leisure and hospitality,VC,62.844680000000004,2025
+EU27,EU27,Travel, leisure and hospitality,VC,0.3096105,2012
+EU27,EU27,Travel, leisure and hospitality,VC,0.4781305,2013
+EU27,EU27,Travel, leisure and hospitality,VC,8.858316,2014
+EU27,EU27,Travel, leisure and hospitality,VC,32.438777,2015
+EU27,EU27,Travel, leisure and hospitality,VC,6.161088,2016
+EU27,EU27,Travel, leisure and hospitality,VC,3.601948,2017
+EU27,EU27,Travel, leisure and hospitality,VC,49.079226,2018
+EU27,EU27,Travel, leisure and hospitality,VC,51.565484,2019
+EU27,EU27,Travel, leisure and hospitality,VC,48.091722,2020
+EU27,EU27,Travel, leisure and hospitality,VC,21.3615655,2021
+EU27,EU27,Travel, leisure and hospitality,VC,138.817969,2022
+EU27,EU27,Travel, leisure and hospitality,VC,13.990861,2023
+EU27,EU27,Travel, leisure and hospitality,VC,70.762221,2024
+EU27,EU27,Travel, leisure and hospitality,VC,8.8662655,2025
+DEU,Germany,Travel, leisure and hospitality,VC,2.145676,2014
+DEU,Germany,Travel, leisure and hospitality,VC,30.036181,2015
+DEU,Germany,Travel, leisure and hospitality,VC,3.5,2016
+DEU,Germany,Travel, leisure and hospitality,VC,1.780129,2017
+DEU,Germany,Travel, leisure and hospitality,VC,38.487122,2018
+DEU,Germany,Travel, leisure and hospitality,VC,48,2019
+DEU,Germany,Travel, leisure and hospitality,VC,44.729682999999994,2020
+DEU,Germany,Travel, leisure and hospitality,VC,11.195452,2021
+DEU,Germany,Travel, leisure and hospitality,VC,2.138496,2023
+DEU,Germany,Travel, leisure and hospitality,VC,34.779136,2024
+ESP,Spain,Travel, leisure and hospitality,VC,0.3096105,2012
+ESP,Spain,Travel, leisure and hospitality,VC,0.064347,2013
+ESP,Spain,Travel, leisure and hospitality,VC,0.271021,2014
+ESP,Spain,Travel, leisure and hospitality,VC,1.921507,2015
+ESP,Spain,Travel, leisure and hospitality,VC,2.6610880000000003,2016
+ESP,Spain,Travel, leisure and hospitality,VC,0.485303,2017
+ESP,Spain,Travel, leisure and hospitality,VC,5,2018
+ESP,Spain,Travel, leisure and hospitality,VC,1.125083,2020
+ESP,Spain,Travel, leisure and hospitality,VC,6.3258545,2021
+ESP,Spain,Travel, leisure and hospitality,VC,94.34688,2022
+ESP,Spain,Travel, leisure and hospitality,VC,6.116478,2023
+ESP,Spain,Travel, leisure and hospitality,VC,1.626366,2024
+ESP,Spain,Travel, leisure and hospitality,VC,1.407202,2025
+FRA,France,Travel, leisure and hospitality,VC,0.107672,2014
+FRA,France,Travel, leisure and hospitality,VC,0.354431,2015
+FRA,France,Travel, leisure and hospitality,VC,0.566908,2017
+FRA,France,Travel, leisure and hospitality,VC,1.433877,2018
+FRA,France,Travel, leisure and hospitality,VC,0.632274,2019
+FRA,France,Travel, leisure and hospitality,VC,1.670302,2020
+FRA,France,Travel, leisure and hospitality,VC,0.932934,2021
+FRA,France,Travel, leisure and hospitality,VC,9.000602,2022
+FRA,France,Travel, leisure and hospitality,VC,32.569084,2024
+POL,Poland,Travel, leisure and hospitality,VC,0.1,2013
+POL,Poland,Travel, leisure and hospitality,VC,0,2016
+POL,Poland,Travel, leisure and hospitality,VC,2.93321,2019
+POL,Poland,Travel, leisure and hospitality,VC,26.463254,2022
+NLD,Netherlands,Travel, leisure and hospitality,VC,5,2022
+NLD,Netherlands,Travel, leisure and hospitality,VC,1.363804,2023
+NLD,Netherlands,Travel, leisure and hospitality,VC,1.083449,2024
+NLD,Netherlands,Travel, leisure and hospitality,VC,5.160302,2025
+CHE,Switzerland,Travel, leisure and hospitality,VC,5.145042,2020
+CHE,Switzerland,Travel, leisure and hospitality,VC,0.165096,2021
+CHE,Switzerland,Travel, leisure and hospitality,VC,1.684517,2022
+CHE,Switzerland,Travel, leisure and hospitality,VC,2.10859,2023
+CHE,Switzerland,Travel, leisure and hospitality,VC,3.406586,2025
+DNK,Denmark,Travel, leisure and hospitality,VC,3.188568,2022
+DNK,Denmark,Travel, leisure and hospitality,VC,3.177562,2023
+IRL,Ireland,Travel, leisure and hospitality,VC,5.79795,2014
+ITA,Italy,Travel, leisure and hospitality,VC,0.3137835,2013
+ITA,Italy,Travel, leisure and hospitality,VC,0.535997,2014
+ITA,Italy,Travel, leisure and hospitality,VC,0.126658,2015
+ITA,Italy,Travel, leisure and hospitality,VC,0.769608,2017
+ITA,Italy,Travel, leisure and hospitality,VC,3.570864,2018
+BEL,Belgium,Travel, leisure and hospitality,VC,0.647739,2021
+BEL,Belgium,Travel, leisure and hospitality,VC,0.566311,2023
+BEL,Belgium,Travel, leisure and hospitality,VC,2.2987615000000003,2025
+SWE,Sweden,Travel, leisure and hospitality,VC,0.587363,2018
+SWE,Sweden,Travel, leisure and hospitality,VC,1.059586,2021
+ROU,Romania,Travel, leisure and hospitality,VC,0.566654,2020
+ROU,Romania,Travel, leisure and hospitality,VC,0.818665,2022
+AUT,Austria,Travel, leisure and hospitality,VC,1.2,2021
+FIN,Finland,Travel, leisure and hospitality,VC,0.704186,2024
+EST,Estonia,Travel, leisure and hospitality,VC,0.62821,2023
+TUR,Türkiye,Travel, leisure and hospitality,VC,0.038895,2023

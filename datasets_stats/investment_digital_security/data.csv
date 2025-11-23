@@ -1,0 +1,154 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+EU27,EU27,Digital security,VC,1.728352,2012
+EU27,EU27,Digital security,VC,17.32656,2013
+EU27,EU27,Digital security,VC,4.286263,2014
+EU27,EU27,Digital security,VC,4.70025,2015
+EU27,EU27,Digital security,VC,16.202396999999998,2016
+EU27,EU27,Digital security,VC,50.28741,2017
+EU27,EU27,Digital security,VC,36.392932,2018
+EU27,EU27,Digital security,VC,50.463488999999996,2019
+EU27,EU27,Digital security,VC,93.498885,2020
+EU27,EU27,Digital security,VC,184.0614605,2021
+EU27,EU27,Digital security,VC,504.5739415,2022
+EU27,EU27,Digital security,VC,129.9758505,2023
+EU27,EU27,Digital security,VC,115.8511565,2024
+EU27,EU27,Digital security,VC,349.77147399999996,2025
+CHE,Switzerland,Digital security,VC,26.5,2013
+CHE,Switzerland,Digital security,VC,5.564562,2014
+CHE,Switzerland,Digital security,VC,72.435252,2016
+CHE,Switzerland,Digital security,VC,51.828579000000005,2017
+CHE,Switzerland,Digital security,VC,140.761824,2018
+CHE,Switzerland,Digital security,VC,148.94163,2019
+CHE,Switzerland,Digital security,VC,26.782028999999998,2020
+CHE,Switzerland,Digital security,VC,280.6167415,2021
+CHE,Switzerland,Digital security,VC,402.408025,2022
+CHE,Switzerland,Digital security,VC,14.56563,2023
+CHE,Switzerland,Digital security,VC,42.249843,2024
+CHE,Switzerland,Digital security,VC,42.62628,2025
+GBR,United Kingdom,Digital security,VC,0.7881425,2013
+GBR,United Kingdom,Digital security,VC,7.0052579999999995,2014
+GBR,United Kingdom,Digital security,VC,52.191265,2015
+GBR,United Kingdom,Digital security,VC,78.893687,2016
+GBR,United Kingdom,Digital security,VC,91.192325,2017
+GBR,United Kingdom,Digital security,VC,111.631678,2018
+GBR,United Kingdom,Digital security,VC,8.835715,2019
+GBR,United Kingdom,Digital security,VC,46.700956,2020
+GBR,United Kingdom,Digital security,VC,38.081346,2021
+GBR,United Kingdom,Digital security,VC,79.2449325,2022
+GBR,United Kingdom,Digital security,VC,68.807407,2023
+GBR,United Kingdom,Digital security,VC,352.919918,2024
+GBR,United Kingdom,Digital security,VC,170.2456945,2025
+FRA,France,Digital security,VC,0.728352,2012
+FRA,France,Digital security,VC,0.737618,2013
+FRA,France,Digital security,VC,3.0024140000000004,2014
+FRA,France,Digital security,VC,0.9284020000000001,2015
+FRA,France,Digital security,VC,0.848375,2016
+FRA,France,Digital security,VC,17.512096,2017
+FRA,France,Digital security,VC,1.244264,2018
+FRA,France,Digital security,VC,1.218616,2019
+FRA,France,Digital security,VC,42.068822,2020
+FRA,France,Digital security,VC,32.925163000000005,2021
+FRA,France,Digital security,VC,49.214224,2022
+FRA,France,Digital security,VC,61.8216865,2023
+FRA,France,Digital security,VC,40.2036315,2024
+FRA,France,Digital security,VC,67.88183699999999,2025
+DEU,Germany,Digital security,VC,0,2012
+DEU,Germany,Digital security,VC,5,2013
+DEU,Germany,Digital security,VC,0,2015
+DEU,Germany,Digital security,VC,0.834384,2018
+DEU,Germany,Digital security,VC,21.710905500000003,2019
+DEU,Germany,Digital security,VC,9.716159000000001,2020
+DEU,Germany,Digital security,VC,38.765043,2021
+DEU,Germany,Digital security,VC,130.881761,2022
+DEU,Germany,Digital security,VC,24.084328,2023
+DEU,Germany,Digital security,VC,17.164383,2024
+DEU,Germany,Digital security,VC,15.712149,2025
+EST,Estonia,Digital security,VC,8.27922,2018
+EST,Estonia,Digital security,VC,0,2019
+EST,Estonia,Digital security,VC,15.717825,2020
+EST,Estonia,Digital security,VC,69,2021
+EST,Estonia,Digital security,VC,100,2022
+EST,Estonia,Digital security,VC,13.020942,2024
+EST,Estonia,Digital security,VC,48.327439,2025
+HUN,Hungary,Digital security,VC,0.11055,2017
+HUN,Hungary,Digital security,VC,0.575275,2018
+HUN,Hungary,Digital security,VC,1.121314,2019
+HUN,Hungary,Digital security,VC,11.636974,2021
+HUN,Hungary,Digital security,VC,94,2022
+HUN,Hungary,Digital security,VC,2.5,2023
+HUN,Hungary,Digital security,VC,87,2025
+ITA,Italy,Digital security,VC,5.5,2016
+ITA,Italy,Digital security,VC,4.917302,2018
+ITA,Italy,Digital security,VC,7.172504,2021
+ITA,Italy,Digital security,VC,6.162569,2022
+ITA,Italy,Digital security,VC,12.411182,2023
+ITA,Italy,Digital security,VC,22.298306,2024
+ITA,Italy,Digital security,VC,82.727637,2025
+NLD,Netherlands,Digital security,VC,1,2012
+NLD,Netherlands,Digital security,VC,0,2013
+NLD,Netherlands,Digital security,VC,1.283849,2014
+NLD,Netherlands,Digital security,VC,7.041226,2016
+NLD,Netherlands,Digital security,VC,16.449941,2017
+NLD,Netherlands,Digital security,VC,2.370956,2018
+NLD,Netherlands,Digital security,VC,10.4491205,2019
+NLD,Netherlands,Digital security,VC,24.627455,2020
+NLD,Netherlands,Digital security,VC,11.745648,2021
+NLD,Netherlands,Digital security,VC,15.236442,2022
+NLD,Netherlands,Digital security,VC,4.754377,2023
+NLD,Netherlands,Digital security,VC,5.736975,2024
+NLD,Netherlands,Digital security,VC,9.46608,2025
+IRL,Ireland,Digital security,VC,5.088942,2013
+IRL,Ireland,Digital security,VC,0,2014
+IRL,Ireland,Digital security,VC,1.501916,2015
+IRL,Ireland,Digital security,VC,0.638902,2016
+IRL,Ireland,Digital security,VC,14.066746,2017
+IRL,Ireland,Digital security,VC,3.212774,2018
+IRL,Ireland,Digital security,VC,15.963533,2019
+IRL,Ireland,Digital security,VC,1.109112,2020
+IRL,Ireland,Digital security,VC,9.870739,2021
+IRL,Ireland,Digital security,VC,28.912229,2022
+IRL,Ireland,Digital security,VC,5.624071,2023
+IRL,Ireland,Digital security,VC,4.765778,2024
+IRL,Ireland,Digital security,VC,12.259821,2025
+BEL,Belgium,Digital security,VC,56.6753935,2022
+ESP,Spain,Digital security,VC,0.3154075,2016
+ESP,Spain,Digital security,VC,2.907218,2018
+ESP,Spain,Digital security,VC,1.1896315,2021
+ESP,Spain,Digital security,VC,1.296694,2022
+ESP,Spain,Digital security,VC,12.584444000000001,2023
+ESP,Spain,Digital security,VC,5.527872,2024
+ESP,Spain,Digital security,VC,24.915134000000002,2025
+SWE,Sweden,Digital security,VC,6.5,2013
+SWE,Sweden,Digital security,VC,1.18887,2016
+SWE,Sweden,Digital security,VC,0.8,2017
+SWE,Sweden,Digital security,VC,11.4,2018
+SWE,Sweden,Digital security,VC,2.6,2023
+NOR,Norway,Digital security,VC,2.986924,2021
+NOR,Norway,Digital security,VC,3.407948,2023
+NOR,Norway,Digital security,VC,10.544791,2025
+PRT,Portugal,Digital security,VC,0.651539,2018
+PRT,Portugal,Digital security,VC,9.848358000000001,2022
+PRT,Portugal,Digital security,VC,3.332275,2024
+RUS,Russia,Digital security,VC,2.30497,2016
+RUS,Russia,Digital security,VC,7.7710550000000005,2018
+RUS,Russia,Digital security,VC,0.6097980000000001,2019
+RUS,Russia,Digital security,VC,3.074827,2020
+FIN,Finland,Digital security,VC,2.269932,2015
+FIN,Finland,Digital security,VC,0,2016
+FIN,Finland,Digital security,VC,1.348077,2017
+FIN,Finland,Digital security,VC,1.79,2022
+FIN,Finland,Digital security,VC,1.042562,2023
+FIN,Finland,Digital security,VC,3.259289,2024
+BGR,Bulgaria,Digital security,VC,3.97452,2022
+POL,Poland,Digital security,VC,0.259512,2020
+POL,Poland,Digital security,VC,1.037189,2021
+POL,Poland,Digital security,VC,2.33,2022
+DNK,Denmark,Digital security,VC,0.718569,2021
+DNK,Denmark,Digital security,VC,2.751751,2022
+CZE,Czech Republic,Digital security,VC,2.5532000000000004,2023
+TUR,Türkiye,Digital security,VC,0.02,2017
+TUR,Türkiye,Digital security,VC,0.15,2018
+TUR,Türkiye,Digital security,VC,2.1,2024
+GRC,Greece,Digital security,VC,0.773291,2025
+LTU,Lithuania,Digital security,VC,0.708086,2025
+AUT,Austria,Digital security,VC,0.6696165000000001,2016

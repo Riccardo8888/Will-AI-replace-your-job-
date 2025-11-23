@@ -1,0 +1,72 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+EU27,EU27,Environmental services,VC,25.620948,2012
+EU27,EU27,Environmental services,VC,3.320385,2015
+EU27,EU27,Environmental services,VC,2.754752,2016
+EU27,EU27,Environmental services,VC,1.7242864999999998,2019
+EU27,EU27,Environmental services,VC,9.855811,2021
+EU27,EU27,Environmental services,VC,126.922722,2022
+EU27,EU27,Environmental services,VC,38.265285,2023
+EU27,EU27,Environmental services,VC,88.939408,2024
+EU27,EU27,Environmental services,VC,22.410167,2025
+GBR,United Kingdom,Environmental services,VC,0.01,2017
+GBR,United Kingdom,Environmental services,VC,0.605063,2018
+GBR,United Kingdom,Environmental services,VC,2.7440935,2019
+GBR,United Kingdom,Environmental services,VC,11.648468000000001,2020
+GBR,United Kingdom,Environmental services,VC,32.603235,2021
+GBR,United Kingdom,Environmental services,VC,27.321979,2022
+GBR,United Kingdom,Environmental services,VC,73.9238375,2023
+GBR,United Kingdom,Environmental services,VC,38.3195675,2024
+GBR,United Kingdom,Environmental services,VC,3.651407,2025
+FRA,France,Environmental services,VC,8.711719,2012
+FRA,France,Environmental services,VC,0.79484,2015
+FRA,France,Environmental services,VC,2.222071,2016
+FRA,France,Environmental services,VC,4.325697,2021
+FRA,France,Environmental services,VC,99.077039,2022
+FRA,France,Environmental services,VC,6.256038,2023
+FRA,France,Environmental services,VC,13.018684,2024
+FRA,France,Environmental services,VC,1.829585,2025
+DEU,Germany,Environmental services,VC,2.6,2021
+DEU,Germany,Environmental services,VC,8.484778500000001,2022
+DEU,Germany,Environmental services,VC,9.277021999999999,2023
+DEU,Germany,Environmental services,VC,58.405288,2024
+DEU,Germany,Environmental services,VC,2.585476,2025
+FIN,Finland,Environmental services,VC,16.909229,2012
+FIN,Finland,Environmental services,VC,2.525545,2015
+FIN,Finland,Environmental services,VC,0,2016
+FIN,Finland,Environmental services,VC,0.698218,2021
+FIN,Finland,Environmental services,VC,4.296644,2025
+CHE,Switzerland,Environmental services,VC,8.0095455,2020
+CHE,Switzerland,Environmental services,VC,1.622596,2021
+CHE,Switzerland,Environmental services,VC,9.75,2022
+CHE,Switzerland,Environmental services,VC,2.591193,2023
+CHE,Switzerland,Environmental services,VC,0.113844,2024
+CHE,Switzerland,Environmental services,VC,0.963889,2025
+SWE,Sweden,Environmental services,VC,0.358798,2021
+SWE,Sweden,Environmental services,VC,2.353201,2022
+SWE,Sweden,Environmental services,VC,5.636953999999999,2023
+SWE,Sweden,Environmental services,VC,7.046832,2024
+SWE,Sweden,Environmental services,VC,3.79724,2025
+NOR,Norway,Environmental services,VC,5,2021
+NOR,Norway,Environmental services,VC,3.409671,2022
+NOR,Norway,Environmental services,VC,4.312672,2024
+NOR,Norway,Environmental services,VC,5.62084,2025
+ESP,Spain,Environmental services,VC,0.7430494999999999,2019
+ESP,Spain,Environmental services,VC,10.716179499999999,2022
+ESP,Spain,Environmental services,VC,0.906317,2023
+ESP,Spain,Environmental services,VC,3.790209,2024
+AUT,Austria,Environmental services,VC,5.3517280000000005,2023
+AUT,Austria,Environmental services,VC,6.140441,2025
+NLD,Netherlands,Environmental services,VC,0.577969,2023
+NLD,Netherlands,Environmental services,VC,5.270959,2024
+NLD,Netherlands,Environmental services,VC,1.075937,2025
+LUX,Luxembourg,Environmental services,VC,0.682288,2022
+LUX,Luxembourg,Environmental services,VC,6.217264,2023
+ITA,Italy,Environmental services,VC,0.532681,2016
+ITA,Italy,Environmental services,VC,0.981237,2019
+ITA,Italy,Environmental services,VC,5.293775,2022
+IRL,Ireland,Environmental services,VC,1.873098,2021
+IRL,Ireland,Environmental services,VC,0.315461,2022
+IRL,Ireland,Environmental services,VC,2.476138,2023
+IRL,Ireland,Environmental services,VC,1.407436,2024
+EST,Estonia,Environmental services,VC,2.684844,2025
+PRT,Portugal,Environmental services,VC,1.565855,2023

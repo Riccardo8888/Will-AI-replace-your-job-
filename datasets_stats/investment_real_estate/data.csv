@@ -1,0 +1,36 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+EU27,EU27,Real estate,VC,0,2015
+EU27,EU27,Real estate,VC,10.437776,2016
+EU27,EU27,Real estate,VC,18.547773,2017
+EU27,EU27,Real estate,VC,94.5481405,2019
+EU27,EU27,Real estate,VC,53.402067,2020
+EU27,EU27,Real estate,VC,1.637813,2021
+EU27,EU27,Real estate,VC,109.3339685,2022
+EU27,EU27,Real estate,VC,73.2321345,2023
+EU27,EU27,Real estate,VC,124.250737,2024
+EU27,EU27,Real estate,VC,19.4187215,2025
+DEU,Germany,Real estate,VC,0,2015
+DEU,Germany,Real estate,VC,10.437776,2016
+DEU,Germany,Real estate,VC,18.547773,2017
+DEU,Germany,Real estate,VC,94.43112049999999,2019
+DEU,Germany,Real estate,VC,46.757717,2020
+DEU,Germany,Real estate,VC,75.7629435,2022
+DEU,Germany,Real estate,VC,64.722559,2023
+DEU,Germany,Real estate,VC,14.885557,2024
+FRA,France,Real estate,VC,0.11702,2019
+FRA,France,Real estate,VC,6.644349999999999,2020
+FRA,France,Real estate,VC,1.637813,2021
+FRA,France,Real estate,VC,26.418584,2022
+FRA,France,Real estate,VC,8.5095755,2023
+FRA,France,Real estate,VC,108.283704,2024
+GBR,United Kingdom,Real estate,VC,0.562096,2015
+GBR,United Kingdom,Real estate,VC,1.411051,2020
+GBR,United Kingdom,Real estate,VC,57.750341999999996,2021
+GBR,United Kingdom,Real estate,VC,2.823787,2022
+GBR,United Kingdom,Real estate,VC,1.596492,2023
+GBR,United Kingdom,Real estate,VC,2.022762,2025
+ESP,Spain,Real estate,VC,7.152441,2022
+ESP,Spain,Real estate,VC,17.20718,2025
+FIN,Finland,Real estate,VC,2.2115415,2025
+CHE,Switzerland,Real estate,VC,2.161403,2024
+RUS,Russia,Real estate,VC,0,2023

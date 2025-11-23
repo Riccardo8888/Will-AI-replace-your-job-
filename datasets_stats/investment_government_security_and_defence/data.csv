@@ -1,0 +1,31 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+EU27,EU27,Government, security and defence,VC,23.591075,2021
+EU27,EU27,Government, security and defence,VC,214.7508055,2022
+EU27,EU27,Government, security and defence,VC,305.394248,2023
+EU27,EU27,Government, security and defence,VC,645.788304,2024
+EU27,EU27,Government, security and defence,VC,959.212156,2025
+DEU,Germany,Government, security and defence,VC,23.591075,2021
+DEU,Germany,Government, security and defence,VC,191.1985835,2022
+DEU,Germany,Government, security and defence,VC,293.814712,2023
+DEU,Germany,Government, security and defence,VC,544.741418,2024
+DEU,Germany,Government, security and defence,VC,886.796408,2025
+PRT,Portugal,Government, security and defence,VC,23.552222,2022
+PRT,Portugal,Government, security and defence,VC,76.10565,2024
+PRT,Portugal,Government, security and defence,VC,2.618132,2025
+EST,Estonia,Government, security and defence,VC,7.0842469999999995,2024
+EST,Estonia,Government, security and defence,VC,58.209903,2025
+FRA,France,Government, security and defence,VC,3.150668,2023
+FRA,France,Government, security and defence,VC,9.219709,2024
+POL,Poland,Government, security and defence,VC,2,2023
+POL,Poland,Government, security and defence,VC,1.516204,2024
+POL,Poland,Government, security and defence,VC,4.759188,2025
+GRC,Greece,Government, security and defence,VC,6.428868,2023
+SWE,Sweden,Government, security and defence,VC,1.8245680000000002,2024
+SWE,Sweden,Government, security and defence,VC,3,2025
+GBR,United Kingdom,Government, security and defence,VC,1.265895,2017
+GBR,United Kingdom,Government, security and defence,VC,1.9405649999999999,2025
+UKR,Ukraine,Government, security and defence,VC,1.45,2024
+UKR,Ukraine,Government, security and defence,VC,1.15,2025
+ITA,Italy,Government, security and defence,VC,2.204625,2025
+DNK,Denmark,Government, security and defence,VC,1.6239,2025
+LTU,Lithuania,Government, security and defence,VC,0.970308,2024
